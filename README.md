@@ -17,5 +17,3 @@ For more information, about the tech stack and collection of tools that I am fam
 Feel free to reach out to me at ben@benpaynehunt.co.uk or via DM ✉️
 
 I look forward to hearing from you
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=benpayne-hunt)](https://github.com/anuraghazra/github-readme-stats)
