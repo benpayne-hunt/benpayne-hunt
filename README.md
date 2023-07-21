@@ -6,7 +6,7 @@ Currently helping high-growth, fast-paced startup Shift disrupt the logistics in
 
 While not coordinating dev teams, I enjoy getting back behind the keyboard as a Senior/Lead Engineer 👨‍💻
 
-I've primarily worked on complex React.js front-end web applications with Node.js or PHP laravel backends, but have a soft spot for Go, Rust and the right tool for the job ⚛️
+I've been primarily working on complex React.js front-end web applications with Node.js or PHP laravel backends, but have a soft spot for Go, Rust and the right tool for the job ⚛️
 
 Value stream management and dev team operational efficiency concepts and practices are things that I enjoy discussing and sharing with dev teams 🤓
 
