@@ -12,7 +12,7 @@ Value stream management and dev team operational efficiency concepts and practic
 
 Away from the code base I enjoy walking my dogs around beautiful Dartmoor National Park, that I call home, stroking my cats, riding horses and playing cricket 🏔️
 
-For more information, about the tech stack and collection of tools that I am familiar with, please see the Projects and Skills section on this page 🔧
+For more information, about the tech stack and collection of tools that I am familiar with, please see the Projects and Skills section on http://benpaynehunt.co.uk/ 🔧
 
 Feel free to reach out to me at ben@benpaynehunt.co.uk or via DM ✉️
 
