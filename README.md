@@ -2,7 +2,7 @@
 
 I'm a Tech Lead with a passion for running effective, collaborative and fun teams that look to deliver value in every pull request we open 💪
 
-Currently helping high-growth, fast-paced startup Shift disrupt the logistics industry by building a tech powered digital marketplace 🚀
+Currently helping high-growth, fast-paced startup Haysto 🚀
 
 While not coordinating dev teams, I enjoy getting back behind the keyboard as a Senior/Lead Engineer 👨‍💻
 
