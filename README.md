@@ -10,7 +10,7 @@ I've been primarily working on complex React.js front-end web applications with 
 
 Value stream management and dev team operational efficiency concepts and practices are things that I enjoy discussing and sharing with dev teams 🤓
 
-Away from the code base I enjoy walking my dogs around beautiful Dartmoor National Park, that I call home, stroking my cats, riding horses and working out 🏔️
+Away from the code base I enjoy walking my dogs around beautiful Dartmoor National Park, that I call home, stroking my cat, riding horses and working out 🏔️
 
 For more information, about the tech stack and collection of tools that I am familiar with, please see the Projects and Skills section on http://benpaynehunt.co.uk/ 🔧
 
