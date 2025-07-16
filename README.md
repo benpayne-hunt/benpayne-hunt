@@ -1,19 +1,15 @@
 ### Hi there 👋
 
-I'm a Tech Lead with a passion for running effective, collaborative and fun teams that look to deliver value in every pull request we open 💪
+Tech Lead & Engineering Manager @ Haysto | FinTech 🚀
 
-Currently helping high-growth, fast-paced startup Haysto 🚀
+Go 🐹 Laravel 🐘 Node 🟢 React ⚛️ Vue 🧩 (whatever gets it done - polyglot)
 
-While not coordinating dev teams, I enjoy getting back behind the keyboard as a Senior/Lead Engineer 👨‍💻
+Fast teams that ship faster⚡
 
-I've been primarily working on complex React.js front-end web applications with Node.js or PHP laravel backends, but have a soft spot for Go, Rust🦀 and the right tool for the job ⚛️
+Flow over fluff 🔄
 
-Value stream management and dev team operational efficiency concepts and practices are things that I enjoy discussing and sharing with dev teams 🤓
+Dev ops ⚙️ Value stream management 📈 Product mindset 🧠 Dev X 🛠️
 
-Away from the code base I enjoy walking my dogs around beautiful Dartmoor National Park, that I call home, stroking my cat, riding horses and working out 🏔️
+Dartmoor 🏡 ⛰️
 
-For more information, about the tech stack and collection of tools that I am familiar with, please see the Projects and Skills section on http://benpaynehunt.co.uk/ 🔧
-
-Feel free to reach out to me at ben@benpaynehunt.co.uk or via DM ✉️
-
-I look forward to hearing from you
+Hit me up 👉 ben@benpaynehunt.co.uk ✉️
