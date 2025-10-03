@@ -6,8 +6,6 @@ Go 🐹 Laravel 🐘 Node 🟢 React ⚛️ Vue 🧩 (whatever gets it done - po
 
 Fast teams that ship faster⚡
 
-Flow over fluff 🔄
-
 Dev ops ⚙️ Value stream management 📈 Product mindset 🧠 Dev X 🛠️
 
 Dartmoor 🏡 ⛰️
